@@ -1,3 +1,110 @@
 body{
     margin: 0;
 }
+h1{
+    font-size: 50px;
+    margin-top: 40px;
+}
+h2{
+    font-size: 40px;
+}
+.para{
+    text-align: justify;
+    margin-bottom: 35px;
+}
+.high-light{
+    color: blueviolet;
+}
+#h-light{
+    color: brown;
+}
+.half-width{
+    width: 42%;
+    margin-left: 4px;
+    padding-left: 40px;
+    float: left;
+    
+}
+section{
+    height: 500px;
+    margin: 5px;
+}
+.btn{
+    color: cornsilk;
+    background-image: linear-gradient(45deg, blue, skyblue);
+    padding: 10px 20px;
+    text-decoration: none;
+}
+.top-sec{
+    background-image: url("images/header-bg.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.half-width img{
+    width: 65%;
+}
+.bio-sec{
+    background-image: url("images/biography-bg.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#biography{
+    margin-top: 100px;
+}
+#work{
+    text-align: center;
+    margin: 80px 10px;
+}
+.one-third-with{
+    width: 30%;
+    margin-left: 2%;
+    float: left;
+}
+.one-third-with img{
+    width: 95%;
+}
+.work-sec{
+    background-image: url("images/latest-work-bg.png");
+    background-position: right;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.client{
+    text-align: center;
+ }
+
+ #designation{
+     color: darkgray;
+ }
+ .comment{
+     padding: 1px 300px;
+ }
+ 
+ #client-sec{
+    background-image: url("images/footer-bg.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+ }
+
+ .contact{
+    margin: 10px auto;
+    padding: 25px 150px;
+    text-align: center;
+    color: ivory;
+    width: 250px;
+
+}
+
+#email{
+    font-size: xx-large;
+    padding-top: 40px;
+}
+footer{
+    color: lightgrey;
+    text-align: center;
+    margin: 30px;
+}
